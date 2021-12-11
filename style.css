@@ -59,5 +59,26 @@ img {
   padding: 3rem 2rem 0;
 }
 
+.text {
+  color: #919095;
+  font-size: 12px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+.text .new {
+  margin-right: 0.5rem;
+  border-radius: 20px;
+  padding: 0.5rem;
+  letter-spacing: unset;
+  background-color: #222841;
+  color: white;
+}
+
+.info h1 {
+  letter-spacing: 2px;
+  font-size: 1.9rem;
+  font-weight: 700;
+}
+
 @media screen and (min-width: 768px) {
 }
